@@ -8,7 +8,7 @@ I am currently an aspiring and passionate Software Engineer, trying to get my wa
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
-* 🚀  I'm currently working on [Project Scarlet](http://127.0.0.1:5500/index.html)
+* 🚀  I'm currently working on [Project Remielle](http://127.0.0.1:5500/index.html)
 * 🧠  I'm learning how to create a working website for personalized needs
 
 <a href="https://www.x.com/stellar1m" target="_blank" rel="noreferrer"><img

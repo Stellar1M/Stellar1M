@@ -4,7 +4,7 @@
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="waving hand" /> My name is Thinh Nguyen</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Aspiring+Software+Engineer;Web+Developer;High+school+student+in+New+Jersey;Building+an+AI+companion+called+Remielle" alt="Aspiring Software Engineer, Web Developer, high school student in New Jersey, building an AI companion called Remielle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Aspiring+Software+Engineer;Web+Developer;Student+at+Rutgers+University;Building+an+AI+companion+called+Remielle" alt="Aspiring Software Engineer, Web Developer, student at Rutgers University, building an AI companion called Remielle" />
 
 <p>
 <a href="#project-remielle"><img src="https://img.shields.io/badge/01-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
@@ -15,7 +15,7 @@
 
 </div>
 
-I'm an aspiring and passionate software engineer, working my way through high school and learning as much computer science as I can, so that I can use everything I learn to create something great.
+I'm an aspiring and passionate software engineer, studying at Rutgers University and learning as much computer science as I can, so that I can use everything I learn to create something great.
 
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)

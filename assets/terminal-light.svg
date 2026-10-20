@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="424" viewBox="0 0 880 424" role="img" aria-labelledby="t d">
 <title id="t">Thinh Nguyen: terminal card</title>
-<desc id="d">Role, location and stack, plus real numbers from the private Project Remielle repository: 42 commits since 2026-10-10, 12,449 lines of code in 41 files.</desc>
+<desc id="d">Role, location and stack, plus real numbers from the private Project Remielle repository: 43 commits since 2026-10-10, 12,449 lines of code in 41 files.</desc>
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a58d6"/><stop offset="1" stop-color="#d6336c"/></linearGradient>
 <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5"/></filter>
@@ -35,12 +35,12 @@ text{font-family:ui-monospace,SFMono-Regular,'Cascadia Mono',Consolas,'Liberatio
 <line x1="300" y1="94" x2="600" y2="94" stroke="#d0d7de"/>
 <text x="300" y="118" fill="#0a58d6">role</text><text x="400" y="118" fill="#1f2328">Aspiring Software Engineer + Web Developer</text>
 <text x="300" y="142" fill="#0a58d6">location</text><text x="400" y="142" fill="#1f2328">New Jersey</text>
-<text x="300" y="166" fill="#0a58d6">school</text><text x="400" y="166" fill="#1f2328">High school</text>
+<text x="300" y="166" fill="#0a58d6">school</text><text x="400" y="166" fill="#1f2328">Rutgers University</text>
 <text x="300" y="190" fill="#0a58d6">now</text><text x="400" y="190" fill="#1f2328">Project Remielle: an AI companion (private repo)</text>
 <text x="300" y="214" fill="#0a58d6">stack</text><text x="400" y="214" fill="#1f2328">Python, JavaScript, three.js, Electron</text>
 <text x="300" y="248" fill="#59636e">Project Remielle, counted from git</text>
 <line x1="300" y1="258" x2="600" y2="258" stroke="#d0d7de"/>
-<text x="300" y="282" fill="#0a58d6">commits</text><text x="400" y="282"><tspan fill="#1f2328">42</tspan><tspan fill="#59636e">&#160;&#160;since 2026-10-10</tspan></text>
+<text x="300" y="282" fill="#0a58d6">commits</text><text x="400" y="282"><tspan fill="#1f2328">43</tspan><tspan fill="#59636e">&#160;&#160;since 2026-10-10</tspan></text>
 <text x="300" y="306" fill="#0a58d6">code</text><text x="400" y="306" fill="#1f2328">12,449 lines in 41 files</text>
 <text x="300" y="330" fill="#0a58d6">languages</text>
 <rect x="400.0" y="318" width="229.9" height="14" rx="3" fill="#3382ed"/>

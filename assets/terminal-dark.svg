@@ -33,7 +33,7 @@ text{font-family:ui-monospace,SFMono-Regular,'Cascadia Mono',Consolas,'Liberatio
 <text x="130" y="318" text-anchor="middle" fill="#8a94a8" font-size="12">wings and a star</text>
 <text x="300" y="84"><tspan fill="#ff7ab0">thinh</tspan><tspan fill="#8a94a8">@</tspan><tspan fill="#3382ed">stellar1m</tspan></text>
 <line x1="300" y1="94" x2="600" y2="94" stroke="#1e2638"/>
-<text x="300" y="118" fill="#3382ed">role</text><text x="400" y="118" fill="#e8edf9">Aspiring Software Engineer + Web Developer</text>
+<text x="300" y="118" fill="#3382ed">role</text><text x="400" y="118" fill="#e8edf9">Real-time LLM, voice AI and 3D developer</text>
 <text x="300" y="142" fill="#3382ed">location</text><text x="400" y="142" fill="#e8edf9">New Jersey</text>
 <text x="300" y="166" fill="#3382ed">school</text><text x="400" y="166" fill="#e8edf9">Rutgers University</text>
 <text x="300" y="190" fill="#3382ed">now</text><text x="400" y="190" fill="#e8edf9">Project Remielle: an AI companion (private repo)</text>

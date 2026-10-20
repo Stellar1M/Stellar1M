@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1b3a78,75:3382ed,100:ff7ab0&height=230&section=header&text=Stellar1M&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Aspiring%20Software%20Engineer%20and%20Web%20Developer&descSize=22&descAlignY=60&descColor=dfe8ff" alt="Stellar1M: Aspiring Software Engineer and Web Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1b3a78,75:3382ed,100:ff7ab0&height=230&section=header&text=Stellar1M&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Software%20Engineering%20%C2%B7%20LLM%20and%20Voice%20AI&descSize=22&descAlignY=60&descColor=dfe8ff" alt="Stellar1M: Software Engineering · LLM and Voice AI" width="100%" />
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="waving hand" /> My name is Thinh Nguyen</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Aspiring+Software+Engineer;Web+Developer;Student+at+Rutgers+University;Building+an+AI+companion+called+Remielle" alt="Aspiring Software Engineer, Web Developer, student at Rutgers University, building an AI companion called Remielle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Software+Engineering+and+Applied+AI;Python,+JavaScript,+three.js,+LLMs;Student+at+Rutgers+University;Building+Remielle:+real-time+voice+AI" alt="Software engineering and applied AI. Python, JavaScript, three.js, LLMs. Student at Rutgers University. Building Remielle: real-time voice AI" />
 
 <p>
 <a href="#project-remielle"><img src="https://img.shields.io/badge/01-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
@@ -15,12 +15,13 @@
 
 </div>
 
-I'm an aspiring and passionate software engineer, studying at Rutgers University and learning as much computer science as I can, so that I can use everything I learn to create something great.
+I'm a student at Rutgers University building real-time AI software. My main project, Remielle, is a voice AI companion: a Python backend that streams LLM replies, listens, speaks and remembers, driving a three.js 3D character in an Electron desktop app over WebSockets, with her animation fitted to timing measured in reference footage.
 
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
 * 🚀 I'm currently working on [Project Remielle](#project-remielle)
-* 🧠 I'm learning how to create a working website for personalized needs
+* 🧠 I'm learning to make LLM apps reliable: streaming replies, voice barge-in, and regression tests for model behavior
+* 💼 Open to software engineering internships: generative AI / LLM apps, full-stack, backend, three.js / WebGL
 
 <p align="center">
 <a href="https://www.x.com/stellar1m" target="_blank" rel="noreferrer"><img
@@ -34,7 +35,7 @@ alt="Twitch status" /></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-light.svg" />
-    <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" alt="Terminal card: Aspiring Software Engineer and Web Developer in New Jersey. Project Remielle, counted from git: 42 commits since 2026-10-10 and 12,449 lines of code, 50% JavaScript, 39% Python, 8% CSS, 3% HTML." width="100%" />
+    <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" alt="Terminal card: real-time LLM, voice AI and 3D developer in New Jersey, student at Rutgers University. Project Remielle, counted from git: 43 commits since 2026-10-10 and 12,449 lines of code, 50% JavaScript, 39% Python, 8% CSS, 3% HTML." width="100%" />
   </picture>
 </p>
 

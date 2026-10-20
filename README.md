@@ -19,7 +19,7 @@ I'm a finance student at Rutgers University and an accounting analyst intern, an
 
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
-* 🚀 I'm currently working on [Project Remielle](#project-remielle)
+* 🚀 I'm currently working on [Project Remielle](#project-remielle) (see the [showcase repo](https://github.com/Stellar1M/project-remielle): demo, screenshots and code samples)
 * 📊 At work I process vendor invoices in Microsoft Dynamics 365, so I see where finance teams lose time to manual work and data that doesn't match.
 * 💼 Open to summer 2027 internships and part-time roles: fintech, financial systems, FP&A, financial analysis
 
@@ -101,7 +101,7 @@ Making her acting match the game. I measure how her face, head and timing move i
 
 **Built with** Python, JavaScript, three.js and three-vrm, Electron, Node.js, WebSockets and Git, plus OpenRouter, Fish Audio and Silero VAD.
 
-<sub>A fan project, not affiliated with HoYoverse. Zenless Zone Zero and Remielle Dan belong to HoYoverse. The 3D model is a fan edit of the official model by 杏子酱Kyouko, used locally and never redistributed, so only screenshots appear here. The source code is in a private repository for now.</sub>
+<sub>A fan project, not affiliated with HoYoverse. Zenless Zone Zero and Remielle Dan belong to HoYoverse. The 3D model is a fan edit of the official model by 杏子酱Kyouko, used locally and never redistributed, so only screenshots appear here. The source code is private; the [project-remielle](https://github.com/Stellar1M/project-remielle) showcase has a demo, screenshots and code samples.</sub>
 
 ### Skills
 

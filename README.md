@@ -4,7 +4,7 @@
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="waving hand" /> My name is Thinh Nguyen</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Finance+student+at+Rutgers+University;Accounting+intern+in+Dynamics+365+ERP;Python%2C+JavaScript+and+Excel;Building+Remielle%3A+real-time+voice+AI" alt="Finance student at Rutgers University. Accounting intern in Dynamics 365 ERP. Python, JavaScript and Excel. Building Remielle: real-time voice AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Finance+student+at+Rutgers+University;Accounting+intern+in+Dynamics+365+ERP;Built+a+daily+duplicate-invoice+check;Excel+Power+Query%2C+Python%2C+JavaScript;Building+Remielle%3A+real-time+voice+AI" alt="Finance student at Rutgers University. Accounting intern in Dynamics 365 ERP. Built a daily duplicate-invoice check. Excel Power Query, Python, JavaScript. Building Remielle: real-time voice AI" />
 
 <p>
 <a href="#project-remielle"><img src="https://img.shields.io/badge/01-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
@@ -20,7 +20,7 @@ I'm a finance student at Rutgers University and an accounting analyst intern, an
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
 * 🚀 I'm currently working on [Project Remielle](#project-remielle) (see the [showcase repo](https://github.com/Stellar1M/project-remielle): demo, screenshots and code samples)
-* 📊 At work I process vendor invoices in Microsoft Dynamics 365, so I see where finance teams lose time to manual work and data that doesn't match.
+* 📊 At work I process vendor invoices in Microsoft Dynamics 365. My first project there: a daily duplicate-invoice check in Excel Power Query that flags invoices at risk of being paid twice. I wrote the rules, Claude (AI) wrote the queries, and I set it up and run it every day.
 * 💼 Open to summer 2027 internships and part-time roles: fintech, financial systems, FP&A, financial analysis
 
 <p align="center">

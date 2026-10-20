@@ -7,10 +7,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Finance+student+at+Rutgers+University;Accounting+intern+in+Dynamics+365+ERP;Built+a+daily+duplicate-invoice+check;Excel+Power+Query%2C+Python%2C+JavaScript;Building+Remielle%3A+real-time+voice+AI" alt="Finance student at Rutgers University. Accounting intern in Dynamics 365 ERP. Built a daily duplicate-invoice check. Excel Power Query, Python, JavaScript. Building Remielle: real-time voice AI" />
 
 <p>
-<a href="#project-remielle"><img src="https://img.shields.io/badge/01-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/02-Skills-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Skills" /></a>
-<a href="#github-stats"><img src="https://img.shields.io/badge/03-GitHub%20stats-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to GitHub stats" /></a>
-<a href="#socials"><img src="https://img.shields.io/badge/04-Socials-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Socials" /></a>
+<a href="#at-work-duplicate-invoice-tracker"><img src="https://img.shields.io/badge/01-At%20work-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to At work" /></a>
+<a href="#project-remielle"><img src="https://img.shields.io/badge/02-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/03-Skills-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Skills" /></a>
+<a href="#github-stats"><img src="https://img.shields.io/badge/04-GitHub%20stats-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to GitHub stats" /></a>
+<a href="#socials"><img src="https://img.shields.io/badge/05-Socials-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Socials" /></a>
 </p>
 
 </div>
@@ -38,6 +39,14 @@ alt="Twitch status" /></a>
     <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" alt="Terminal card: finance student, dynamics 365 and python, in New Jersey, student at Rutgers University. Project Remielle, counted from git: 43 commits since 2026-10-10 and 12,449 lines of code, 50% JavaScript, 39% Python, 8% CSS, 3% HTML." width="100%" />
   </picture>
 </p>
+
+### At work: Duplicate Invoice Tracker
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/tracker-card.png" alt="Duplicate Invoice Tracker: an Excel system that flags invoices at risk of being paid twice. Every morning at 9:00 it pulls, cleans, matches, ranks and tracks them, with a dashboard. Code written by Claude (AI)." width="100%" />
+</p>
+
+My first project at my accounting internship: an Excel (Power Query) system that refreshes from three Dynamics 365 reports every morning at 9:00, flags invoices at risk of being paid twice, ranks them by risk with already-paid copies first, and tracks each one until it's resolved. I wrote the rules, Claude (AI) wrote the queries and the dashboard, and I set it up and run it every day. The workbook and its data stay private.
 
 ### Project Remielle
 

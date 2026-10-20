@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1b3a78,75:3382ed,100:ff7ab0&height=230&section=header&text=Stellar1M&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Software%20Engineering%20%C2%B7%20LLM%20and%20Voice%20AI&descSize=22&descAlignY=60&descColor=dfe8ff" alt="Stellar1M: Software Engineering · LLM and Voice AI" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1b3a78,75:3382ed,100:ff7ab0&height=230&section=header&text=Stellar1M&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Finance%20and%20Technology%20%C2%B7%20Financial%20Systems&descSize=22&descAlignY=60&descColor=dfe8ff" alt="Stellar1M: Finance and Technology · Financial Systems" width="100%" />
 
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" alt="waving hand" /> My name is Thinh Nguyen</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Software+Engineering+and+Applied+AI;Python,+JavaScript,+three.js,+LLMs;Student+at+Rutgers+University;Building+Remielle:+real-time+voice+AI" alt="Software engineering and applied AI. Python, JavaScript, three.js, LLMs. Student at Rutgers University. Building Remielle: real-time voice AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1200&color=3382ED&center=true&vCenter=true&width=640&height=48&lines=Finance+student+at+Rutgers+University;Accounting+intern+in+Dynamics+365+ERP;Python%2C+JavaScript+and+Excel;Building+Remielle%3A+real-time+voice+AI" alt="Finance student at Rutgers University. Accounting intern in Dynamics 365 ERP. Python, JavaScript and Excel. Building Remielle: real-time voice AI" />
 
 <p>
 <a href="#project-remielle"><img src="https://img.shields.io/badge/01-Project%20Remielle-3382ed?style=for-the-badge&labelColor=000000" alt="Jump to Project Remielle" /></a>
@@ -15,13 +15,13 @@
 
 </div>
 
-I'm a student at Rutgers University building real-time AI software. My main project, Remielle, is a voice AI companion: a Python backend that streams LLM replies, listens, speaks and remembers, driving a three.js 3D character in an Electron desktop app over WebSockets, with her animation fitted to timing measured in reference footage.
+I'm a finance student at Rutgers University and an accounting analyst intern, and I build my own software in Python and JavaScript. I'm aiming for fintech, financial systems and FP&A roles, where knowing both the accounting and the code helps. My main project, Remielle, is a voice AI companion: a Python backend that streams LLM replies, listens, speaks and remembers, driving a three.js 3D character in an Electron desktop app over WebSockets, with her animation fitted to timing measured in reference footage.
 
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
 * 🚀 I'm currently working on [Project Remielle](#project-remielle)
-* 🧠 I'm learning to make LLM apps reliable: streaming replies, voice barge-in, and regression tests for model behavior
-* 💼 Open to software engineering internships: generative AI / LLM apps, full-stack, backend, three.js / WebGL
+* 📊 At work I process vendor invoices in Microsoft Dynamics 365, so I see where finance teams lose time to manual work and data that doesn't match.
+* 💼 Open to summer 2027 internships and part-time roles: fintech, financial systems, FP&A, financial analysis
 
 <p align="center">
 <a href="https://www.x.com/stellar1m" target="_blank" rel="noreferrer"><img
@@ -35,7 +35,7 @@ alt="Twitch status" /></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-light.svg" />
-    <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" alt="Terminal card: real-time LLM, voice AI and 3D developer in New Jersey, student at Rutgers University. Project Remielle, counted from git: 43 commits since 2026-10-10 and 12,449 lines of code, 50% JavaScript, 39% Python, 8% CSS, 3% HTML." width="100%" />
+    <img src="https://raw.githubusercontent.com/Stellar1M/Stellar1M/main/assets/terminal-dark.svg" alt="Terminal card: finance student, dynamics 365 and python, in New Jersey, student at Rutgers University. Project Remielle, counted from git: 43 commits since 2026-10-10 and 12,449 lines of code, 50% JavaScript, 39% Python, 8% CSS, 3% HTML." width="100%" />
   </picture>
 </p>
 

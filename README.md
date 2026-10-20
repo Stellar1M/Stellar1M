@@ -20,7 +20,7 @@ I'm a finance student at Rutgers University and an accounting analyst intern, an
 * 🌍 I'm based in New Jersey
 * ✉️ You can contact me at [thinh.nguyen19042803@gmail.com](mailto:thinh.nguyen19042803@gmail.com)
 * 🚀 I'm currently working on [Project Remielle](#project-remielle) (see the [showcase repo](https://github.com/Stellar1M/project-remielle): demo, screenshots and code samples)
-* 📊 At work I process vendor invoices in Microsoft Dynamics 365. My first project there: a daily duplicate-invoice check in Excel Power Query that flags invoices at risk of being paid twice. I wrote the rules, Claude (AI) wrote the queries, and I set it up and run it every day.
+* 📊 At work I process vendor invoices in Microsoft Dynamics 365. My first project there: a daily duplicate-invoice check in Excel Power Query that flags invoices at risk of being paid twice. I wrote the rules, Claude (AI) wrote the queries and the dashboard, and I set it up and run it every day.
 * 💼 Open to summer 2027 internships and part-time roles: fintech, financial systems, FP&A, financial analysis
 
 <p align="center">
